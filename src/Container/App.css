@@ -1,0 +1,16 @@
+h1{
+  text-align: center;
+  padding: 1;
+  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-weight:bolder;
+  font-size: 50px;
+  color: #3445a5;
+}
+.search{
+  align-content: center;
+  text-align: center;
+  padding: 1em;
+  align-content: center;
+
+}
+
